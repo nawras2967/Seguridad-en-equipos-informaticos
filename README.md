@@ -1,71 +1,136 @@
-🔐 MF0486 — Seguridad en Equipos Informáticos_TAREA2
+🔐 MF0486 — Seguridad en Equipos Informáticos
 
-Trabajo académico centrado en la identificación de riesgos ambientales y la aplicación de salvaguardas en sistemas informáticos siguiendo recomendaciones de MAGERIT. El documento analiza amenazas físicas y ambientales que pueden afectar a distintos subsistemas de un ordenador, como placa base, fuente de alimentación, discos duros y chasis interno.  ￼
-
-⸻
-
-📚 Contenido del proyecto
-
-✅ Actividad 05
-
-Análisis de situaciones ambientales y medidas de protección:
-
-* 🌡️ Altas temperaturas
-* ⚡ Cortes de suministro eléctrico
-* 🧹 Ambientes con polvo
-* 💥 Golpes y vibraciones
-* 💧 Alta humedad
-* 🔥 Incendios
-
-Para cada escenario se evalúan:
-
-* Riesgos potenciales
-* Impacto en hardware
-* Salvaguardas aplicadas según MAGERIT
-
-Ejemplos:
-
-* Protección contra sobretensiones
-* Sistemas SAI/UPS
-* Sensores térmicos
-* Sistemas antiincendios
-* Copias de seguridad externas
-* Filtros antipolvo y ventilación optimizada  ￼
+Repositorio académico centrado en administración de sistemas, análisis de riesgos, redes y ciberseguridad defensiva. Este conjunto de tareas prácticas desarrolla conceptos fundamentales relacionados con MAGERIT, ENS, análisis CIA, continuidad de negocio, herramientas de monitorización, infraestructura de red y protección de sistemas informáticos en entornos Linux y empresariales.  ￼  ￼
 
 ⸻
 
-⚙️ Actividad 07
+📚 Contenido del repositorio
 
-Diseño de un registro hipotético de usuarios y permisos en una empresa con:
+🛡️ Gestión de riesgos y MAGERIT
 
-* 10 trabajadores
-* 3 departamentos
-* Servicios compartidos:
-    * Internet
-    * Correo electrónico
-    * Impresión
-    * Base de datos de contabilidad
-    * Base de datos de clientes
+Desarrollo de actividades relacionadas con:
 
-Aplicando control de acceso según departamentos y necesidades operativas.  ￼
+* Identificación de activos
+* Amenazas y vulnerabilidades
+* Impacto y degradación
+* Riesgo residual
+* Selección de salvaguardas
+* Continuidad de negocio
 
-⸻
-
-🛠️ Conceptos trabajados
+Aplicando metodologías como:
 
 * MAGERIT
-* Gestión de riesgos
-* Seguridad física
-* Disponibilidad
-* Protección ambiental
-* Control de acceso
-* Infraestructura informática
-* Hardware y alimentación eficiente
-* Fuentes 80 PLUS
+* ENS
+* ISO 27001
+
+￼
+
+⸻
+
+🔒 Análisis CIA (Confidencialidad, Integridad y Disponibilidad)
+
+Valoración de sistemas y procesos:
+
+* Compra online
+* Bases de datos
+* Infraestructura empresarial
+* Aplicaciones de gestión
+* Servicios de impresión
+
+Evaluando:
+
+* criticidad
+* impacto
+* disponibilidad
+* integridad de la información
+
+￼
+
+⸻
+
+🌐 Redes e infraestructura
+
+Diseño y análisis de:
+
+* Redes corporativas
+* Segmentación de red
+* Firewalls
+* IDS
+* NAS
+* LDAP / Active Directory
+* WiFi corporativo
+* Servidores web y bases de datos
+
+Incluyendo diagramas de red empresariales y arquitectura básica segura.  ￼
+
+⸻
+
+⚡ Continuidad eléctrica y SAI
+
+Investigación sobre:
+
+* Sistemas UPS / SAI
+* Protección frente a cortes eléctricos
+* Autonomía energética
+* Infraestructura crítica
+
+Analizando soluciones desde pequeñas oficinas hasta centros de datos.  ￼
+
+⸻
+
+🛰️ Herramientas de análisis y monitorización
+
+Uso práctico de herramientas Linux y Kali Linux:
+
+* Ping
+* Traceroute
+* Netstat
+* Nslookup
+* Whois
+* Tcpdump
+* Nmap
+* WireShark
+
+Aplicadas a:
+
+* análisis de puertos
+* captura de tráfico
+* reconocimiento de red
+* diagnóstico de conectividad
+* análisis de protocolos
+
+￼
+
+⸻
+
+🛠️ Tecnologías y herramientas utilizadas
+
+* Linux / Kali Linux
+* Nmap
+* Tcpdump
+* WireShark
+* MAGERIT
+* ENS
+* Active Directory
+* IDS
+* Redes TCP/IP
+* Virtualización
+* Seguridad perimetral
+
+⸻
+
+🎯 Objetivos del proyecto
+
+* Comprender conceptos fundamentales de ciberseguridad
+* Aplicar análisis de riesgos en escenarios reales
+* Aprender herramientas de administración y monitorización
+* Diseñar infraestructuras básicas seguras
+* Trabajar con metodologías de continuidad y protección
 
 ⸻
 
 👩‍💻 Autora
 
 Paloma Casabona
-Estudiante de desarrollo web y ciberseguridad interesada en Blue Team, análisis de riesgos y protección de infraestructuras.
+Junior Web Developer & Cybersecurity Student
+Interesada en Blue Team, análisis de redes, continuidad de negocio, infraestructura segura y protección de sistemas Linux.
