@@ -1,4 +1,4 @@
-🔐 MF0486 — Seguridad en Equipos Informáticos
+🔐 MF0486 — Seguridad en Equipos Informáticos_TAREA2
 
 Trabajo académico centrado en la identificación de riesgos ambientales y la aplicación de salvaguardas en sistemas informáticos siguiendo recomendaciones de MAGERIT. El documento analiza amenazas físicas y ambientales que pueden afectar a distintos subsistemas de un ordenador, como placa base, fuente de alimentación, discos duros y chasis interno.  ￼
 
