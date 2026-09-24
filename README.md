@@ -132,5 +132,5 @@ Aplicadas a:
 👩‍💻 Autora
 
 Paloma Casabona
-Junior Web Developer & Cybersecurity Student
-Interesada en Blue Team, análisis de redes, continuidad de negocio, infraestructura segura y protección de sistemas Linux.
+Web Developer & Cybersecurity Technician
+Interesada en Blue Team & Red Team, análisis de redes, continuidad de negocio, infraestructura segura y protección de sistemas Linux.
